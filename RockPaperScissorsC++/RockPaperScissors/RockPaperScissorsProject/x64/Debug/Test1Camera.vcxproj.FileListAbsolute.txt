@@ -1,0 +1,2 @@
+D:\Documents\Year 3 Computing C++\Camera\RockPaperScissorsProject\x64\Debug\RockPaperScissorsProject.dll
+D:\Documents\Year 3 Computing C++\RockPaperScissorsC++\RockPaperScissors\RockPaperScissorsProject\x64\Debug\RockPaperScissorsProject.exe

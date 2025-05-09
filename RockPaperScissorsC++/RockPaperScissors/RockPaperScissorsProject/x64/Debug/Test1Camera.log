@@ -1,0 +1,3 @@
+﻿  RockPaperScissors.cpp
+D:\Documents\Year 3 Computing C++\RockPaperScissorsC++\RockPaperScissors\RockPaperScissorsProject\RockPaperScissors.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Test1Camera.vcxproj -> D:\Documents\Year 3 Computing C++\RockPaperScissorsC++\RockPaperScissors\RockPaperScissorsProject\x64\Debug\RockPaperScissorsProject.exe
